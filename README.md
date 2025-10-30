@@ -46,20 +46,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derrickgitonga&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Derrick's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickgitonga&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrickgitonga&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -69,7 +56,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="(https://www.linkedin.com/in/derrick-gitonga-237b7b239/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="(https://x.com/254whale?t=_MSOTRu6v4SEwQ--mZHEOA&s=09)">
+  <a href="(https://x.com/254whale?t=splnlXd-h_drynzd6iAKAg&s=09)">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:derrickgito@gmail.com">
@@ -88,14 +75,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-### 📈 Recent Activity
 
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
-
-<!-- RECENT_ACTIVITY:last_update -->
-Last Updated: <!-- RECENT_ACTIVITY:last_update -->
-<!-- RECENT_ACTIVITY:last_update_end -->
-
----
 
