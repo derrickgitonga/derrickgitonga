@@ -80,19 +80,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derrickgitonga&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Derrick's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickgitonga&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrickgitonga&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together!
