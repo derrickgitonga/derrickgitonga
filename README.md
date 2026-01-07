@@ -1,6 +1,6 @@
 # Hi there, I'm Derrick Gitonga! 👋
 
-<h3 align="center">A passionate full-stack developer & AI enthusiast from Kenya, building intelligent solutions</h3>
+<h3 align="center">A passionate full-stack developer & AI enthusiast from Kenya EMAE, building intelligent solutions</h3>
 
 <p align="center">
   <a href="https://github.com/derrickgitonga?tab=followers">
