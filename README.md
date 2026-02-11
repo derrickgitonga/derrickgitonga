@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/derrickgitonga?tab=followers">
-    <img src="https://img.shields.io/github/followers/derrickgitonga?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+<img src="https://img.shields.io/static/v1?label=Followers&message=View+on+GitHub&style=social&logo=github" alt="GitHub Followers">  </a>
   <a href="https://github.com/derrickgitonga">
     <img src="https://komarev.com/ghpvc/?username=derrickgitonga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
   </a>
